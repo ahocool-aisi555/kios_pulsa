@@ -9,6 +9,7 @@ Kios pulsa gratis kini setelah 10 tahun FULL GRATIS !!
 ![iklan1](https://github.com/user-attachments/assets/d016a690-d539-4289-b702-df1efcbe95f4)
 - Software ini adalah alat bantu untuk jualan pulsa dengan yg memasukkan nomer si pembeli pulsa
 - Ratusan bahkan ribuan kios pulsa telah menggunakannya di masa jaya nya
+- Silahkan buka https://www.facebook.com/kasirpulsa sekedar nostalgia di masa jayanya
 # Syarat menggunakan software ini
 Setelah era windows 7 berakhir, software ini mendapat tantangan ketika di th 2020 terdapat upgrade yg mem-blok penggunaan flash dan berakibat banyak windows 8 keatas yang tidak bisa menjalankan, jadi syaratnya :
 
